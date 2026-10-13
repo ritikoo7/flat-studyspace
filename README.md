@@ -178,16 +178,9 @@ The repository can use the following structure:
 ```text
 flat-studyspace/
 │
-├── index.html
+├── flat-space.html
 ├── README.md
-├── assets/
-│   ├── images/
-│   └── favicon.png
-│
-├── docs/
-│   └── screenshots/
-│
-└── LICENSE
+
 ```
 
 - `index.html` contains the standalone website.
