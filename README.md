@@ -185,9 +185,7 @@ flat-studyspace/
 
 - `index.html` contains the standalone website.
 - `README.md` documents the project.
-- `assets/` can store images and other visual resources.
-- `docs/screenshots/` can store screenshots of the website.
-- `LICENSE` defines the terms under which others may use the project.
+
 
 The `assets/`, `docs/`, and `LICENSE` entries are optional. Add them when needed.
 
