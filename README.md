@@ -86,4 +86,4 @@ Students can use the following routine with FLAT Studyspace:
 1. Clone this repository:
 
    ```bash
-   git clone [https://github.com/ritikoo7/flat-studyspace.git]
+   git clone https://github.com/ritikoo7/flat-studyspace
