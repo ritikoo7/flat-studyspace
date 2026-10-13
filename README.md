@@ -25,7 +25,6 @@ Whether you're preparing for university examinations, organizing your semester, 
 ## 🔗 Project Links
 
 - 💻 **GitHub Repository:** [ritikoo7/flat-studyspace](https://github.com/ritikoo7/flat-studyspace)
-- 🌐 **Live Website:** [Open FLAT Studyspace](https://ritikoo7.github.io/flat-studyspace/)
 
 > **Note:** The live website link will work after GitHub Pages has been enabled and deployment has completed.
 
